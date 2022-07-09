@@ -1,0 +1,53 @@
+body {
+  font-family: "Amatic SC", cursive;
+  font-family: "Open Sans", sans-serif;
+  font-family: "Poppins", sans-serif;
+  font-family: "Roboto", sans-serif;
+  font-family: "Tajawal", sans-serif;
+  font-family: "Ubuntu", sans-serif;
+  margin: 0px;
+}
+#name {
+  font-size: 45px;
+}
+span {
+  color: orange;
+}
+#hello {
+  font-size: 16px;
+}
+#web-developer {
+  font-size: 25px;
+}
+.anchor-tag {
+  text-decoration: none;
+  background-color: #f9004d;
+  font-size: 13px;
+  font-weight: 900;
+  padding: 13px 27px;
+  color: rgb(245, 243, 241);
+  border-radius: 30px;
+  transition: 0.4s;
+}
+.anchor-tag:hover {
+  color: white;
+  background-color: black;
+  border: 1px solid rgb(250, 244, 244);
+}
+.first-section {
+  display: flex;
+}
+.half-width-text {
+  width: 50%;
+  padding-left: 100px;
+  padding-right: 100px;
+  font-weight: 300;
+}
+#image-one {
+  height: 600px;
+}
+.half-width-image {
+  width: 50%;
+  margin-right: 95px;
+}
+
